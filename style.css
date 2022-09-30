@@ -1,0 +1,45 @@
+body{
+    background-color: white;
+}
+#shape{
+    display: inline-block;
+}
+#circle{
+    width: 250px;
+    height: 250px;
+    background-color: black;
+}
+#triangle{
+    width: 250px;
+    height: 250px;
+    background-color: black;
+}
+#rectangle{
+    width: 250px;
+    height: 250px;
+    background-color: black;
+}
+.button-1{
+    margin: 3% 11%;
+    padding: 8px 9px;
+    background-color: blue;
+    color: white;
+}
+.button-2{
+    margin: 3% 11%;
+    padding: 8px 9px;
+    background-color: blue;
+    color: white;
+}
+.button-3{
+     margin: 3% 11%;
+    padding: 8px 9px;
+    background-color: blue;
+    color: white;
+}
+.div-1{
+margin: 200px 0px 0px 270px;
+}
+div{
+    margin: 10px 0px 0px 50px;
+}
